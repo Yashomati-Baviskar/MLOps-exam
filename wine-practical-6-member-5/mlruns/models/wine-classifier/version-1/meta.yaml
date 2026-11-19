@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1795096314224
+current_stage: None
+description: null
+last_updated_timestamp: 1795096314224
+name: wine-classifier
+run_id: 3ccce1bc26044d11bf9a99ebdc6c6bcc
+run_link: null
+source: file:///C:/Users/A/OneDrive/Desktop/MLOps-exam/wine-practical-6-member-5/mlruns/433197887929282826/3ccce1bc26044d11bf9a99ebdc6c6bcc/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/A/OneDrive/Desktop/MLOps-exam/wine-practical-6-member-5/mlruns/433197887929282826/3ccce1bc26044d11bf9a99ebdc6c6bcc/artifacts/model
+user_id: null
+version: 1

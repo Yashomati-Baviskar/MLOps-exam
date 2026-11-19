@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/A/OneDrive/Desktop/MLOps-exam/wine-practical-6-member-5/mlruns/433197887929282826/5bc3694ac4f544acb546a08355c09208/artifacts
+end_time: 1795095634140
+entry_point_name: ''
+experiment_id: '433197887929282826'
+lifecycle_stage: active
+run_id: 5bc3694ac4f544acb546a08355c09208
+run_name: Decision Tree
+run_uuid: 5bc3694ac4f544acb546a08355c09208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1795095629969
+status: 3
+tags: []
+user_id: A
