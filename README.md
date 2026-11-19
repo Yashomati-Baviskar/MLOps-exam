@@ -1,2 +1,1 @@
-# MLOps-exam
-MLOps practical exam repository. 
+# MLOps Practical Exam
