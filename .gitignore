@@ -1,0 +1,12 @@
+.venv/
+**/.venv/
+*/.venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+wine-practical-3-member-2/wine-dvc-remote/
+wine-practical-5-member-4/wine_feature_repo/data/registry.db
+wine-practical-5-member-4/wine_feature_repo/data/online_store.db
+wine-practical-6-member-5/mlflow.db
+wine-practical-6-member-5/mlruns/
+wine-practical-6-member-5/mlartifacts/
