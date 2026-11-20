@@ -1,0 +1,50 @@
+
+K
++
+wine_sample"	sample_idJwine_feature_repo
+ûËÿ×¨¢š¢ûËÿ×¨¢š¢
+H
+(
+__dummy"
+__dummy_idJwine_feature_repo
+ûËÿ×ØÕ×¢ûËÿ×ØÕ×¢1"$42497e31-3179-426f-9333-889d471befe0*ºÎÿ×à§‰2Ö
+Š
+wine_measurementswine_feature_repowine_sample"
+alcohol"
+
+malic_acid"
+ash"
+total_phenols"
+
+flavanoids"
+color_intensity"
+proline"
+phenols_flavanoids_ratio"
+color_proline_ratio2€ç„:‘event_timestampZdata/wine_features.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢wine_source’ûËÿ×¸àÜr"ûËÿ×€“Ş¡@b
+	sample_id’latestG
+ûËÿ×ØÕ×¢ºÎÿ×à§‰
+²æúÈÉ×¦€¾ƒØ
+€¾ƒØ€¾ƒØ0RÊ
+Ç
+,feast.infra.online_stores.sqlite.SqliteTable"–
+oC:\Users\chaud\.vscode\MLOps-exam\wine-practical-5-member-4\wine_feature_repo\feature_repo\data\online_store.db#wine_feature_repo_wine_measurementsb¥event_timestampZdata/wine_features.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢wine_sourceªwine_feature_repo’ûËÿ×¸àÜr"ûËÿ×€“Ş¡Š1
+
+wine_feature_repo
+ûËÿ×˜ÁÙsûËÿ×˜ÁÙs’™
+–
+wine_measurementswine_feature_repo"feature_view*«
+Š
+wine_measurementswine_feature_repowine_sample"
+alcohol"
+
+malic_acid"
+ash"
+total_phenols"
+
+flavanoids"
+color_intensity"
+proline"
+phenols_flavanoids_ratio"
+color_proline_ratio2€ç„:‘event_timestampZdata/wine_features.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢wine_source’ûËÿ×¸àÜr"ûËÿ×€“Ş¡@b
+	sample_id’latest
+ûËÿ×ØÕ×¢ûËÿ×ØÕ×¢2ûËÿ×ˆŒ”£B$1e93ef24-f60b-4d1a-a530-22c97c41522a
