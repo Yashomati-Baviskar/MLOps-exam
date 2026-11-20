@@ -1,0 +1,27 @@
+stages:
+  collect:
+    cmd: python src/pipeline/collect.py
+    deps:
+      - data/raw/wine_v1.csv
+      - src/pipeline/collect.py
+    outs:
+      - data/raw/wine_raw.csv
+  preprocess:
+    cmd: python src/pipeline/preprocess.py
+    deps:
+      - data/raw/wine_raw.csv
+      - src/pipeline/preprocess.py
+    outs:
+      - data/processed/wine_preprocessed.csv
+  features:
+    cmd: python src/pipeline/features.py
+    deps:
+      - data/processed/wine_preprocessed.csv
+      - src/pipeline/features.py
+    outs:
+      - data/processed/wine_features.csv
+  validate:
+    cmd: python src/pipeline/validate.py
+    deps:
+      - data/processed/wine_features.csv
+      - src/pipeline/validate.py
