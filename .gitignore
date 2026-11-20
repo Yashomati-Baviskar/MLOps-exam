@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+wine-practical-5-member-4/wine_feature_repo/data/registry.db
+wine-practical-5-member-4/wine_feature_repo/data/online_store.db
